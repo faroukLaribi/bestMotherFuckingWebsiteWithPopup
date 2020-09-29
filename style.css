@@ -1,0 +1,10 @@
+body {
+  max-width: 650px;
+  margin: auto;
+  color: #424242;
+  font-size: 18px;
+  line-height: 1.6;
+}
+h1,h2,h3{
+  line-height: 1.2;
+}

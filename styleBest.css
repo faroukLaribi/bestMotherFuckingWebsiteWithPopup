@@ -1,0 +1,89 @@
+body{
+  font-family: Open Sans, Arial, Sans Serif;
+  max-width: 800px;
+  margin: 2em auto;
+  color: #454545;
+  font-size: 16px;
+  text-align: justify;
+  line-height: 1.4;
+  padding: 1em;
+}
+.really{
+  margin-top:-1em;
+}
+span.mfWebsite{
+  color: #730000;
+}
+span.wr{
+  color: #c0392b;
+  font-weight: bold;
+  text-decoration: underline;
+}
+a{
+  color: #0077aa;
+}
+a:visited{
+  color: #941352;
+}
+span.small{
+  font-size: .4em;
+}
+a.kopimi, a.kopimi img{
+  display: block;
+  width: 32px;
+  height: 32px;
+  margin: auto;
+}
+span.sb{
+  color: #0000ee;
+}
+span.vc{
+  color: #551a8b;
+}
+span.sb,span.vc:hover{
+  cursor: not-allowed;
+}
+p.zeroDot{
+  font-family: monospace;
+  font-size: smaller;
+}
+span.rectangle{
+  display: inline-flex;
+  background-color: #444444;
+  width: 15px;
+  height: 15px;
+}
+div.catAndText{
+  display: block;
+  overflow-y: hidden;
+}
+div.catLeft{
+  float: left;
+}
+figcaption{
+  font-size: smaller;
+}
+div.citation{
+  display: block;
+}
+div.quote{
+  float: left;
+  font-family: Times New Roman, Arial;
+  font-size: 36px;
+  font-weight: bolder;
+  margin-top: 40px;
+}
+blockquote{
+  display: inline-block;
+  margin-top: 40px;
+  color: #456;
+
+}
+blockquote author{
+  font-size: x-small;
+  font-style: italic;
+}
+
+span.hyphen{
+  margin-right: 15px;
+}
